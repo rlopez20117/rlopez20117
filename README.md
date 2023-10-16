@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [EzRent] (https://github.com/rlopez20117/EzRent/tree/main)
+- [EzRent](https://github.com/rlopez20117/EzRent)
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   
