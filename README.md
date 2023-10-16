@@ -4,6 +4,8 @@
 
 - [EzRent](https://github.com/rlopez20117/EzRent)
 
+- [Gym Master](https://github.com/rlopez20117/Gym-Master)
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
