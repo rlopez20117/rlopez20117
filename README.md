@@ -15,6 +15,19 @@
 - <b>C# (.NET Desktop Applications)</b>
  
 - <b>Python</b>
+
+<h2> 🧠 Skills </h2>
+
+- Java
+- CSS
+- HTML
+- C
+- C++
+- Pyhton
+- Linux
+- JavaScript
+- NodeJS
+- MySQL
   
 
 <h2>📄 Certifications</h2>
